@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9700f15.css",
-    "main.js": "/static/js/main.af32fd82.js",
+    "main.css": "/static/css/main.960b6bcf.css",
+    "main.js": "/static/js/main.f0bfde57.js",
     "static/js/453.f331c24c.chunk.js": "/static/js/453.f331c24c.chunk.js",
     "static/media/samsungsharpsans-bold.woff": "/static/media/samsungsharpsans-bold.a3d2fc0b2ed47686941b.woff",
     "static/media/samsungsharpsans-medium.woff": "/static/media/samsungsharpsans-medium.5d992ee0ac0fb8516f0f.woff",
     "static/media/samsungsharpsans.woff": "/static/media/samsungsharpsans.769f64ac016899cfcaa1.woff",
     "static/media/sticky-note.webp": "/static/media/sticky-note.838c9324f2cdc0514b65.webp",
     "index.html": "/index.html",
-    "main.b9700f15.css.map": "/static/css/main.b9700f15.css.map",
-    "main.af32fd82.js.map": "/static/js/main.af32fd82.js.map",
+    "main.960b6bcf.css.map": "/static/css/main.960b6bcf.css.map",
+    "main.f0bfde57.js.map": "/static/js/main.f0bfde57.js.map",
     "453.f331c24c.chunk.js.map": "/static/js/453.f331c24c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9700f15.css",
-    "static/js/main.af32fd82.js"
+    "static/css/main.960b6bcf.css",
+    "static/js/main.f0bfde57.js"
   ]
 }
