@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.960b6bcf.css",
+    "main.css": "/static/css/main.0e05e84e.css",
     "main.js": "/static/js/main.187e9b5b.js",
     "static/js/453.f331c24c.chunk.js": "/static/js/453.f331c24c.chunk.js",
     "static/media/samsungsharpsans-bold.woff": "/static/media/samsungsharpsans-bold.a3d2fc0b2ed47686941b.woff",
@@ -8,12 +8,12 @@
     "static/media/samsungsharpsans.woff": "/static/media/samsungsharpsans.769f64ac016899cfcaa1.woff",
     "static/media/sticky-note.webp": "/static/media/sticky-note.838c9324f2cdc0514b65.webp",
     "index.html": "/index.html",
-    "main.960b6bcf.css.map": "/static/css/main.960b6bcf.css.map",
+    "main.0e05e84e.css.map": "/static/css/main.0e05e84e.css.map",
     "main.187e9b5b.js.map": "/static/js/main.187e9b5b.js.map",
     "453.f331c24c.chunk.js.map": "/static/js/453.f331c24c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.960b6bcf.css",
+    "static/css/main.0e05e84e.css",
     "static/js/main.187e9b5b.js"
   ]
 }
